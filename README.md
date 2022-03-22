@@ -9,10 +9,9 @@ In this learning track, you will be presented with reading materials and coding 
    - Clone the repository
    - Get the latest main
    - Create a user branch from main
-   - Create a folder with the set number (if not created already)
-   - Create a folder inside the set folder with the task number
-   - Create a console application under the folder
-   - Complete the coding
+   - Create a solution under the cloned folder (if not created)
+   - Create a console application project under the solution (Ex: Set1Task2, Set1Task3)
+   - Complete the coding in the Program.cs
    - Create a pull request
    - Link the issue created in Step 2
    - Merge the PR after approval

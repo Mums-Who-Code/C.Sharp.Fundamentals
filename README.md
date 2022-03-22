@@ -4,8 +4,8 @@ In this learning track, you will be presented with reading materials and coding 
 ## Steps
 1. Pick your first task
 2. Create an issue for the task under your named repository
-3. If there is no outcome, close the issue with a screenshot of your profile showing the module completion
-4. If there is an outcome, 
+3. Open the task link, if there is no outcome (listed in the task), close the issue with a screenshot of your profile showing the module completion
+4. Open the task link, if there is an outcome (listed in the task), 
    - Clone the repository
    - Get the latest main
    - Create a user branch from main

@@ -3,7 +3,7 @@ In this learning track, you will be presented with reading materials and coding 
 
 ## Steps
 1. Pick your first task
-2. Create an issue for the task under your named repository
+2. Create an issue for the task under your named repository (Reach out to Shri to get your repository link)
 3. Open the task link, if there is no outcome (listed in the task), close the issue after completing your reading
 4. Open the task link, if there is an outcome (listed in the task), 
    - Clone the repository
